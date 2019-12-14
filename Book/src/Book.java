@@ -19,3 +19,13 @@ public static void main(String args[]){
 	}
 }
 }
+class Test{
+	void add(int a,int b) {
+	System.out.println("hello"+a+"\t"+b);	
+	}
+
+static void multi(int x,int y) {
+	System.out.println("test"+x+"\t"+y);
+	
+}
+}
